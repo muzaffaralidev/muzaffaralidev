@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muzaffar Ali!
+# Hi, I'm Muzaffar Ali!
 
 🎓 I'm a passionate **Full Stack Developer, Freelancer, and AI Enthusiast**.  
 Currently enrolled in **Governor IT Initiative** and **SMIT**, focusing on **Agentic AI**.
@@ -25,17 +25,17 @@ Currently enrolled in **Governor IT Initiative** and **SMIT**, focusing on **Age
 ---
 ## 📊 GitHub Stats:
 
-![Muzaffar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuzaffarAli13&show_icons=true&theme=radical)
+![Muzaffar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzaffaralidev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuzaffarAli13&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffaralidev&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuzaffarAli13&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muzaffaralidev&theme=radical)
 
 
 
 
 <br />
 
-![Muzaffar Ali GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=MuzaffarAli13&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+![Muzaffar Ali GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=muzaffaralidev&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 
