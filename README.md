@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muzaffar</h1>
+<h1 align="center">Hi, I'm Muzaffar </h1>
 
 <p align="center">
   <a href="https://muzaffarali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -37,8 +37,8 @@ Currently focused on Agentic AI through GIAIC & SMIT.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muzaffaralidev&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffaralidev&layout=compact&theme=radical" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=muzaffaralidev&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=muzaffaralidev&layout=compact&theme=radical" />
 </p>
 
 ### 📈 Contribution Graph
@@ -49,35 +49,6 @@ Currently focused on Agentic AI through GIAIC & SMIT.
 
 ### 🐍 Contribution Snake
 
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # runs once a day
-  workflow_dispatch:      # lets you trigger it manually
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
-        with:
-          github_user_name: muzaffaralidev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muzaffaralidev/muzaffaralidev/output/github-contribution-grid-snake.svg" />
+</p>
