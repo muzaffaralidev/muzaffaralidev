@@ -49,6 +49,35 @@ Currently focused on Agentic AI through GIAIC & SMIT.
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muzaffaralidev/muzaffaralidev/output/github-contribution-grid-snake.svg" />
-</p>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs once a day
+  workflow_dispatch:      # lets you trigger it manually
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: muzaffaralidev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
