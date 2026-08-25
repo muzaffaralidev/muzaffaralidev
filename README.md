@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muzaffar </h1>
+<h1 align="center">Hi, I'm Muzaffar Ali </h1>
 
 <p align="center">
   <a href="https://muzaffarali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
