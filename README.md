@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-AI-Powered Web & Agent Developer building full-stack apps and intelligent agents.<br/>
-Currently focused on Agentic AI through GIAIC & SMIT.
+ 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, 𝗔𝗜 𝗕𝘂𝗶𝗹𝗱𝗲𝗿, 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗼𝗿, 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵 𝗬𝗼𝘂𝗧𝘂𝗯𝗲𝗿, 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗽𝘂𝗿𝘀𝘂𝗶𝗻𝗴 𝗮 𝗕𝗦 𝗶𝗻 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗮𝘁 𝗤𝗨𝗘𝗦𝗧 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆, 𝗡𝗮𝘄𝗮𝗯𝘀𝗵𝗮𝗵.
 </p>
 
 ---
